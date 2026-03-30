@@ -4,7 +4,7 @@
 
 ---
 
-## Contact
+## 📞 Contact
 
 📧 [221549323@mycput.ac.za](mailto:221549323@mycput.ac.za)  
 📞 +27 66 381 5439  
@@ -12,13 +12,13 @@
 
 ---
 
-## Professional Summary
+## 🎯 Professional Summary
 
 Software Engineer with hands-on experience in full stack web and mobile development, Machine Learning (AI), and cloud technologies (Azure). Strong foundation in Object-Oriented Programming, agile development, and UI/UX principles. Enthusiastic about applying technical skills to innovate projects while continuously learning and contributing to impactful digital solutions.
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Diploma in ICT in Application Development *(In Progress)*
 **Cape Peninsula University of Technology, Cape Town** | 2024-2026
@@ -28,7 +28,7 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -41,7 +41,7 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Data and AI Intern
 **Netcampus Kagisang [KGS] Project** | March 2025 - February 2026
@@ -54,7 +54,7 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
-## Projects
+## 📁 Projects
 
 ### Inventory Management System
 *Java | JavaScript | HTML/CSS | MySQL*
@@ -66,20 +66,20 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 - ✅ Microsoft DP-900: Azure Data Fundamentals
 - ✅ Microsoft AI-900: Azure AI Fundamentals
 
 ---
 
-## Mock Interview Video
+## 🎥 Mock Interview Video
 
 [Click here to watch my mock interview](./20260309_174814%20(online-video-cutter.com).mp4)
 
 ---
 
-## References
+## 👥 References
 
 | Name | Position | Contact |
 |------|----------|---------|
