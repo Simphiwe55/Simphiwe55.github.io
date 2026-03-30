@@ -73,6 +73,12 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
+## Mock Interview Video
+
+[Click here to watch my mock interview](./20260309_174814%20(online-video-cutter.com).mp4)
+
+---
+
 ## References
 
 | Name | Position | Contact |
