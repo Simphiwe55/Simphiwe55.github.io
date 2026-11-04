@@ -66,6 +66,73 @@ Software Engineer with hands-on experience in full stack web and mobile developm
 
 ---
 
+## 🤝 Agile Project: Connectly
+
+**Connectly** is a community job marketplace for Belhar, Cape Town. It connects neighbours who need help with local workers. I worked in a team of four and was the group leader for Sprints 1 to 3.
+
+**Links to evidence**
+- 🌐 Live web app: https://belhar-connect-hublatestt.vercel.app/
+- 📋 Trello board: https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace
+- 💻 GitHub repository: https://github.com/sphaace8-cpu/belhar-connect-hub_latestt
+
+### Agile Team Charter
+
+**Evidence:** The team agreed on a shared purpose, core values (community first, trust and safety, transparency, quality and respect), and working agreements. These include a daily stand-up, a weekly review and a WhatsApp group call to discuss progress and plan the next tasks. We used Trello, Google Drive, GitHub and Figma.
+
+**Reflection:** As group leader, I set up the meetings, tracked progress and assigned tasks. I learnt that some team members need clear instructions and regular reminders to submit their work. I also learnt that I need patience.
+
+### User Stories and Tasks
+
+**Evidence:** The team wrote 25 user stories in seven epics: research, project management, design and brand, platform features, marketing, administration and launch. Each story was broken into daily tasks on Trello.
+
+![Trello user story card for Sprint 2](assets/trello-user-story.png)
+
+**Reflection:** Writing user stories was hardest because we had to think like a homeowner and a worker at the same time. We had to understand what each needed from a service, make sure both would benefit, and keep homeowners' safety in mind, since they are letting a stranger into their home.
+
+### Product Backlog
+
+**Evidence:** The product backlog lists 26 sprints. The team agreed on their order: gather information from the community first, then design, build the features, and finally publish and deploy the web app.
+
+![Trello product backlog board, set to public](assets/trello-board.png)
+
+**Reflection:** Putting the sprints in this order meant each stage was based on what we had learnt before it.
+
+### Sprint Backlog
+
+**Evidence:** I led Sprints 1 to 3. The daily tasks and their completion are recorded on Trello, and the full day-by-day breakdown is in the logbooks below.
+- **Sprint 1, research questionnaire development:** drafted interview questions and scripts for homeowners and workers, tested them, prepared consent forms, and stored the materials in Google Drive.
+- **Sprint 2, homeowner interviews:** recruited homeowners in Belhar, carried out interviews, captured the data, and presented the findings to the team.
+- **Sprint 3, worker interviews:** interviewed local workers, analysed their feedback, and wrote a summary report.
+
+**Reflection:** The research and documentation went as planned. Some community members did not want to take part, but we found several who agreed to be interviewed. Next time I would arrange interviews on a weekend, when more community members are at home.
+
+### Sprints 4 to 15
+
+**Evidence:** After the research sprints, the team designed the app's screens and interactive prototype in Figma (Sprint 4). We then set up the technical foundation and built the core features. The web application is now live at the link above. Users can create an account, verify their email, log in, post a job, search for jobs, apply for work and send messages.
+
+**My contribution:** During the coding phase, I built and tested the payment method, which lets workers enter their banking details so they can be paid after completing a job. It works on the live app.
+
+**Security:** Banking details entered by workers are encrypted, and Supabase access rules limit who can read them. Account verification and password reset were also added.
+
+### Agile Logbook
+
+**Evidence:** The team's daily stand-ups, sprint days and tasks were tracked over the project, from 14 July to 28 August 2026. The logbooks are in the `logbooks` folder:
+- [Logbook 1: Sprint 1, 14 to 17 July 2026](logbooks/Connectly_Logbook_1_Sprint1_14-17_July.docx)
+- [Logbook 2: Sprint 2, 21 to 24 July 2026](logbooks/Connectly_Logbook_2_Sprint2_21-24_July.docx)
+- [Logbook 3: Sprint 3, 28 to 31 July 2026](logbooks/Connectly_Logbook_3_Sprint3_28-31_July.docx)
+- [Logbook 4: Sprint 4, 4 to 7 August 2026](logbooks/Connectly_Logbook_4_Sprint4_4-7_August.docx)
+- [Logbook 5: Sprint 12, 11 to 14 August 2026](logbooks/Connectly_Logbook_5_Sprint12_11-14_August.docx)
+- [Logbook 6: Sprints 13 and 14, 18 to 21 August 2026](logbooks/Connectly_Logbook_6_Sprint13-14_18-21_August.docx)
+- [Logbook 7: Sprint 15, 25 to 28 August 2026](logbooks/Connectly_Logbook_7_Sprint15_25-28_August.docx)
+
+**Reflection:** Progress stayed steady across Sprints 1 to 3 because everyone contributed to their own tasks, and nothing slowed us down. Stand-ups were held daily, and the weekly review and WhatsApp call kept the team on track.
+
+![Connectly homepage](assets/live-homepage.png)
+
+![Connectly login page](assets/live-login.png)
+
+---
+
 ## 🏅 Certifications
 
 - ✅ Microsoft DP-900: Azure Data Fundamentals
@@ -147,4 +214,4 @@ Now my portfolio is live for free. Every time I update my README, the website up
 
 ---
 
-*Last updated: April 2026*
+*Last updated: November 2026*
